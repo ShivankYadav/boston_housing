@@ -44,3 +44,5 @@ The modified Boston housing dataset consists of 489 data points, with each datap
 
 **Target Variable**
 4. `MEDV`: median value of owner-occupied homes
+
+**NOTE:-** If the code does not work, create a new folder called _pycache_ in workspace and move visuals.cpython-36.pyc in it.
